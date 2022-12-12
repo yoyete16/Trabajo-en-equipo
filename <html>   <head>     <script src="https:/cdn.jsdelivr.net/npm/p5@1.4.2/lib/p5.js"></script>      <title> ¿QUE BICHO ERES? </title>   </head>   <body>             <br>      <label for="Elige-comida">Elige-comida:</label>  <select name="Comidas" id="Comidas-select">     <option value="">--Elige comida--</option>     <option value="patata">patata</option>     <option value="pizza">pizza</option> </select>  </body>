@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.4.2/lib/p5.js"></script>
+     <title> ¿QUE BICHO ERES? </title>
+  </head>
+  <body>   
+    
+    <br>
+    
+<label for="Elige-comida">Elige-comida:</label>
+
+<select name="Comidas" id="Comidas-select">
+    <option value="">--Elige comida--</option>
+    <option value="patata">patata</option>
+    <option value="pizza">pizza</option>
+</select>
+
+</body> 
